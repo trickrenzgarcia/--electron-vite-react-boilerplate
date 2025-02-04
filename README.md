@@ -1,4 +1,4 @@
-# employee-service
+# Electron + Vite + React (Boilerplate)
 
 An Electron application with React and TypeScript
 
